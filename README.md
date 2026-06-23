@@ -1,5 +1,4 @@
-## Hi there 👋
-
+im currently working on task 1
 <!--
 **dorothymuga/dorothymuga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
